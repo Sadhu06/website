@@ -366,12 +366,13 @@ hotel.html
 ```
 
 # OUTPUT:
-![alt text](<Screenshot (40).png>)
-![alt text](<Screenshot (41).png>)
-![alt text](<Screenshot (42).png>)
-![alt text](<Screenshot (43).png>)
-![alt text](<Screenshot (44).png>)
-![alt text](<Screenshot (45).png>)
+
+![alt text](1.png)
+![alt text](2.png)
+![alt text](3.png)
+![alt text](4.png)
+![alt text](5.png)
+![alt text](6.png)
 
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
